@@ -1,0 +1,26 @@
+What is the Java?
+
+Java is a popular procedural and object-oriented programming language. It was created in 1995 and is owned by Oracle.
+
+Java is a secure ,fast,and powerful programming language. Java works on different platforms(Windows, Mac, Linux,etc.).It has huge community support(tens of millions of developers).
+
+Why learn another programming language?
+
+Python is an extremely good language to start learning programming for various reasons. It has a simple syntax and a powerful standard library.This simplicity and power of python  have attracted a huge developer community who have build a wide variety of third-party libraries that simplify a lot of programming tasks.
+
+So this brings us to the question,why learn  another programming language?
+
+Different programming language have different strengths.Some languages are good for quickly writing small scripts,some are better suited for working on a large-scale project involving multiple developers.The same feature of the programming language which brings certain advantages in other aspects.
+
+Python - A Dynamic Programming Language
+
+Python belongs to a class of programming languages called dynamic languages.The syntax of this category of languages is considered a bit informal. Informal in the sense that a data type os a variable or return type of a function/method, etc. is never explicit or formally pre-defined. You can directly assign  a value to a variable and later assign a value of a different type to the same variable. This informality simplifies the syntax and make it easy to write python code.But this also means the programmer has to remember certain things. It is up to the developer to ensure that  the right type of value exists in a variable when a particular method is called. If the developer misses these types of things, the code will run into exceptions during runtime.
+
+Java -A Static Programming Language
+
+On the other hand, we have programming languages like C,C++, and Java that are more formal. These are often reffered to as static programming languages. These languages protect you by forcing you to be upfront and formal about the kind of object  each variable is going to contain in its lifetime. As the developer mentions the data types of the variables upfront,before using them,these languages could use this knowledge to
+   . report some of the possible errors to the developer before the code is executed.
+   . optimize functionalities to different data types and thereby increase performance and speed of execution.
+
+You may even notice a performance improvement of 5x-10x when the same logic is written in java or 
+C++ instead of Python.
