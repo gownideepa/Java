@@ -1,0 +1,19 @@
+Hello World Program in Java
+
+Below is the code to display the message "Hello World!" in java.
+
+code:
+
+class HelloWorld {
+    public static void main(String[] args){
+        System.out.println("Hello World");
+    }
+}
+
+Output:
+Hello World!
+
+Naming Convention:
+In both Java and Python, the programmers generally follow pascal case notaion for naming classes.
+
+In Java, System.out.println() statement is used to print a line of output to the console.
