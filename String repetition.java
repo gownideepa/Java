@@ -1,12 +1,9 @@
 import java.util.*;
-class Main
-{
-    public static void main(String[] args) {
+class main{
+    public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
-        String str=sc.nextLine();
+        String s=sc.nextLine();
         int a=sc.nextInt();
-       
-        System.out.print((str+" ").repeat(a)+" ");
-       
+        System.out.println(s.repeat(a));
     }
 }
