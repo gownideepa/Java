@@ -1,11 +1,13 @@
-import java.util.Scanner;
+import java.util.*;
 class Main {
     public static void main(String[] args) {
+        // Write your code here
         Scanner sc=new Scanner(System.in);
-        String input=sc.nextLine();
-        String input2=sc.nextLine();
-        System.out.println(input2);
-        System.out.println(input);
-        sc.close();
+        String a=sc.nextLine();
+        String b=sc.nextLine();
+        System.out.println(b);
+        System.out.println("---");
+        System.out.println(a);
     }
+   
 }
