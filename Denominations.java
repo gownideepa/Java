@@ -1,3 +1,4 @@
+//java programme  to print denominations 
 import java.util.*;
 class main{
     public static void main(String[] args){
