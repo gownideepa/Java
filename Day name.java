@@ -1,3 +1,4 @@
+//java programme to print the day
 import java.util.*;
 class Main {
     public static void main(String[] args) { 
