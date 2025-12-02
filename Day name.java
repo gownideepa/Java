@@ -7,7 +7,7 @@ class Main {
         if(a==1){
             System.out.println("Monday");
         }
-         else if(a==2){
+        else if(a==2){
             System.out.println("Tuesday");
         }
         else if(a==3){
