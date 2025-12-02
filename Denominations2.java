@@ -16,9 +16,9 @@ class main{
         System.out.println();
         System.out.printf("50 Notes: %d",d);
         System.out.println();
-         System.out.printf("20 Notes: %d",f);
+        System.out.printf("20 Notes: %d",f);
         System.out.println();
-         System.out.printf("10 Notes: %d",h);
+        System.out.printf("10 Notes: %d",h);
         System.out.println();
     }
 }
