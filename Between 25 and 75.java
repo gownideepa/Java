@@ -1,3 +1,4 @@
+//java  programme  to check whether a given number is  between 25 and 75
 import java.util.*;
 class main{
     public static void main(String[] args){
