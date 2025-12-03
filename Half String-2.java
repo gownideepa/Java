@@ -5,6 +5,6 @@ class Main {
         String a=sc.nextLine();
         String b=a.substring(a.length()/2);
         System.out.println(b);
-        // Write your code here
+        
     }
 }
