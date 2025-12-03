@@ -9,5 +9,6 @@ class Main {
         System.out.print(a.charAt(0));
         System.out.print(b.charAt(0));
         System.out.print(c.charAt(0));
+        
     }
 }
