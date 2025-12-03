@@ -4,7 +4,7 @@ class main{
         Scanner sc=new Scanner(System.in);
         String w=sc.nextLine();
         int a=(w.length())/2;
-        System.out.println(w.substring(0,a));
+        System.out.println(w.substring(0,a);
        
        
     }
