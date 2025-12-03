@@ -6,6 +6,6 @@ class Main {
         String s=String.valueOf(a);
         System.out.println(s.charAt(0));
         System.out.println(s.charAt(s.length()-1));
-        // Write your code here
+    
     }
 }
