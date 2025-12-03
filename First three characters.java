@@ -5,5 +5,6 @@ class main{
         String s=sc.nextLine();
         String a=s.substring(0,3);
         System.out.println(a);
+        
     }
 }
