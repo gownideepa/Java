@@ -41,6 +41,6 @@ class Main {
                 System.out.println("31");
                 break;
         }
-        // Write your code here
+    
     }
 }
