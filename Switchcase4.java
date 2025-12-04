@@ -20,6 +20,6 @@ class Main {
                 System.out.println("Polygon");
                 break;
         }
-        // Write your code here
+        
     }
 }
