@@ -21,6 +21,6 @@ class Main {
         else{
             System.out.println("Very Hot");
         }
-        // Write your code here
+    
     }
 }
