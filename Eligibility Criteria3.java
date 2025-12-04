@@ -12,6 +12,5 @@ class Main {
         else{
             System.out.println("False");
         }
-        // Write your code here
     }
 }
