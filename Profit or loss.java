@@ -13,6 +13,6 @@ class Main {
         else{
             System.out.println("No Profit - No Loss");
         }
-        // Write your code here
+
     }
 }
