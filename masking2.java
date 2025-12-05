@@ -11,6 +11,6 @@ class Main {
                 System.out.print("*");
             }
         }
-        // Write your code here
+    
     }
 }
